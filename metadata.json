@@ -1,0 +1,10 @@
+{
+    "name" : "Color theme listener",
+    "description" : "Makes legacy applications follow the system color theme",
+    "shell-version" : [
+        "43"
+    ],
+    "url" : "",
+    "uuid" : "color-theme-listener@gextensions.bode.fun",
+    "version" : 0.1
+}
